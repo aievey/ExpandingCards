@@ -1,3 +1,3 @@
-## ExpandingCards
-# 50 Days 50 Projects.
+# ExpandingCards
+## 50 Days 50 Projects.
 dayOne
